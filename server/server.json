@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": "9d59",
+      "name": "sd",
+      "age": "c",
+      "email": "adhil6779@gmail.com",
+      "phone": "cv",
+      "password": "cv"
+    },
+    {
+      "id": "ff74",
+      "name": "sdfgh",
+      "age": "zxcvbn",
+      "email": "v200@gmail.com",
+      "phone": "sdfg",
+      "password": "zxcvb"
+    },
+    {
+      "id": "1cf9",
+      "name": "",
+      "age": "",
+      "email": "",
+      "phone": "",
+      "password": ""
+    },
+    {
+      "id": "7852",
+      "name": "Mhd_Adhil_1",
+      "age": "10",
+      "email": "adhil6779@gmail.com",
+      "phone": "cv",
+      "password": "zxcv"
+    }
+  ]
+}
